@@ -230,5 +230,5 @@ Built with ❤️ by:
 | Name | GitHub |
 |------|--------|
 | Ambuja Sharma | [@ambujasharmaa](https://github.com/ambujasharmaa) |
-| Nikhil | — |
+| Nikhil | [nikhil-rj-hub](https://github.com/nikhil-rj-hub) |
 | Devansh | — |
